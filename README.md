@@ -4,6 +4,7 @@ The purpose of this project is sort data on a stack, with specific rules, using 
 You can read task: [`push_swap.subject.pdf`](subject/push_swap.subject.pdf)
 ### Discription of mandatory part
 The `push_swap` program takes a set of `int` values, sorts the values using rules and writes commands that make the set sorted. To do this, you need think the algorithm and implement it.
+
 ![100](img/100slow.gif)
 #### Rules
 We have 2 stacks named `a` and `b`. To start with:
@@ -38,7 +39,8 @@ pa
 pa
 ```
 ### Algoritm
-To complete the project, I used next algoritm. [![link](img/share.png)](https://github.com/VBrazhnik/Push_swap/wiki/Algorithm)
+To complete the project, I used next algoritm. [![link](img/doc.png)](https://github.com/VBrazhnik/Push_swap/wiki/Algorithm)
+
 But to perfectly works, I had to make some additions.
 ### Discription of bonus part
 If you are sure that the algorithm works perfectly, you can proceed to the bonus. You need to write your own `checker`, repeating the behaviour of the standard `checker_OS`.
