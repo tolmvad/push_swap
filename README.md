@@ -1,7 +1,7 @@
 ![eng](img/eng.png) [![ru](img/ru.png)](README.ru.md)
 # `push_swap`
-The purpose of this project is sort data on a stack, with specific rules, using the lowest possible number of actions.<br>
-You can read task: [`push_swap.subject.pdf`](subject/push_swap.subject.pdf)
+The purpose of this project is sort data on a stack, with specific rules, using the lowest possible number of actions.
+
 ### Discription of mandatory part
 The `push_swap` program takes a set of `int` values, sorts the values using rules and writes commands that make the set sorted. To do this, you need think the algorithm and implement it.
 
